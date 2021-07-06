@@ -1,0 +1,520 @@
+
+
+
+
+@media(min-width: 0px) and (max-width:992px){
+    .contact-item {
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+    }
+    .logo {
+        margin: auto;
+        margin-bottom: 25px;
+    }
+
+    .banner{
+        padding-top: 50px;
+    }
+    .banner-heading{
+        text-align: center;
+    }
+    .welcome-image{
+        display: none;
+    }
+       
+    .welcome-item {
+            width: 90%;
+            margin: auto;
+    }
+    .welcome-title{
+        width: 80%;
+    margin: auto;
+    padding: 25px 0px;
+    }
+    .doctors-title{
+        width: 80%;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+    .doctor-profile {
+        width: 80%;
+        margin: auto;
+        margin-bottom: 30px;
+    }
+    .pricing-items {
+        width: 90%;
+        margin: auto;
+        margin-bottom: 30px;
+    }
+
+    .post-item {
+        display: flex;
+        justify-content: flex-start;
+    }
+    .footer-items{
+        margin-bottom: 30px;
+    }
+    .footer-items h2, .newsletter h2 {
+        margin-bottom: 25px;
+    }
+    .footer-logo {
+        margin-bottom: 25px;
+    }
+}
+
+
+
+@media(min-width: 0px) and (max-width: 768px){
+    .top-image{
+        text-align: center;
+    }
+    .logo {
+        margin: auto;
+        margin-bottom: 25px;
+    }
+    .contact {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .contact-item{
+        display: unset;
+    }
+    .contact-item i {
+        margin: 0;
+        font-size: 35px;
+       
+    }
+    .contact-item h6 {
+        font-size: 18px;
+    }
+    .contact-item p {
+    display: none;
+    }
+    .welcome-image{
+        display: initial;
+        padding-top: 25px;
+        width: 70%;
+        margin: auto;
+    }
+    .banner p {
+        font-size: 14px;
+        margin-bottom: 30px;
+    }
+    .banner-heading{
+        padding: 50px 0px;
+    }
+    .banner-image {
+        display: none;
+    }
+    .banner h2 {
+        font-size: 32px;
+    }
+    .banner h1 {
+        font-size: 42px;
+
+    }
+    .learn-more {
+        font-size: 14px;
+        padding: 20px 25px;
+    }
+    .book-now {
+        font-size: 14px;
+        padding: 20px 25px;
+    }
+    .owl-one .owl-nav{
+        display: none;
+        }
+
+    .welcome-title{
+        width: 85%;
+        margin: auto;
+        text-align: center;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    .pricing-items {
+        width: 100%;
+        margin: auto;
+        margin-bottom: 30px;
+    }
+    .client {
+        width: 50%;
+        margin: auto;
+
+    }
+    .doctor-profile {
+        width: 90%;
+        margin: auto;
+        margin-bottom: 30px;
+    }
+    .owl-carousel .owl-nav button.owl-prev, .owl-carousel .owl-nav button.owl-next {
+        height: 30px;
+        width: 20px;
+        line-height: 30px;
+    }
+
+    .footer-items{
+        width: 90%;
+        margin-bottom: 50px;
+    }
+    .footer-logo {
+        margin-bottom: 25px;
+    }
+    .footer-items h2, .newsletter h2 {
+        margin-bottom: 25px;
+    }
+    .footer-items li {
+        display: flex;
+        justify-content: center;
+    }
+    footer {
+        padding: 50px 0px;
+        }
+    .footer-items {
+        width: 90%;
+        margin: auto;
+        margin-bottom: 50px;
+        text-align: center;
+    }
+    .newsletter{
+        text-align: center;
+        }
+    .post-item {
+        text-align: center;
+        display: inline-block;
+        }
+        .post-item {
+            width: 90%;
+            margin: auto;
+            text-align: center;
+            display: inline-block;
+        }
+        .newsletter {
+            width: 90%;
+            margin: auto;
+            text-align: center;
+        }
+    .p-img {
+        width: 30%;
+        margin: auto;
+        margin-bottom: 10px;
+        }
+    .newsletter {
+        width: 90%;
+        margin: auto;
+        text-align: center;
+        }
+    form {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        margin-bottom: 30px;
+        }
+        .follow {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+}
+
+
+@media(min-width: 0px) and (max-width: 575px){
+    
+    .navbar-brand {
+        font-size: 14px;
+    }
+    .top-image{
+        text-align: center;
+    }
+
+   .owl-one .owl-nav{
+    display: none;
+   }
+   h2 {
+    font-size: 36px;
+    }
+    .logo {
+    width: 100%;
+    margin: auto;
+    margin-bottom: 25px;
+    }
+.contact {
+    margin-bottom: 10px;
+}
+
+.owl-one .owl-nav{
+    display: none;
+    }
+.owl-one .owl-dots {
+    top: 92%;
+    }
+.welcome-title {
+    width: 100%;
+    }
+.welcome-item {
+    text-align: center;
+    width: 90%;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 30px;
+    }
+
+.doctor-profile {
+    width: 90%;
+    margin: auto;
+    margin-bottom: 25px;
+    }
+.services-item {
+    padding: 30px;
+    border: 5px solid #EBEBEB;
+    width: 90%;
+    margin: auto;
+    margin-bottom: 30px;
+    }
+    .pricing-items {
+        width: 90%;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+.owl-carousel .owl-nav button.owl-prev, .owl-carousel .owl-nav button.owl-next {
+    height: 30px;
+    width: 20px;
+    }
+.clients {
+    padding: 50px 0px;
+    }
+footer {
+    padding: 50px 0px;
+    }
+.footer-items {
+    width: 90%;
+    margin: auto;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.newsletter{
+    text-align: center;
+    }
+.post-item {
+    text-align: center;
+    display: inline-block;
+    }
+.p-img {
+    width: 25%;
+    margin: auto;
+    margin-bottom: 10px;
+    }
+.newsletter {
+    width: 90%;
+    margin: auto;
+    text-align: center;
+    }
+form {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+    }
+.follow {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+    .appointment-btn {
+        width: 140px;
+        height: 60px;
+
+    }
+    .appointment-btn::before{
+        position: absolute;
+        content: '';
+        width: 140px;
+        height: 60px;
+    
+    }
+    .navbar-light .navbar-brand {
+        font-size: 12px;
+    }
+    .appointment-btn i {
+        color: white;
+        margin-right: 8px;
+        font-size: 13px;
+    }
+    
+}
+
+
+@media(min-width: 0px) and (max-width: 480px){
+    .navbar-brand {
+        font-size: 14px;
+    }
+    .contact-item i {
+        font-size: 32px;
+    }
+    .banner h2 {
+        font-size: 30px;
+    }
+    .banner h1 {
+        font-size: 34px;
+    }
+    .newsletter {
+        width: 100%;
+        margin: auto;
+        text-align: center;
+    }
+
+    .doctor-profile {
+        width: 90%;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+    .image-icons {
+        width: 100%;
+    }
+    .price h3 {
+        font-size: 42px;
+    }
+    .learn-more {
+        font-size: 14px;
+        padding: 18px 24px;
+    }
+    .book-now{
+        font-size: 14px;
+        padding: 18px 24px;
+    }
+    .footer-logo img {
+        width: 80%;
+    }
+    .footer-items h2, .newsletter h2 {
+        font-size: 28px;
+    }
+    .footer-items li i {
+    }
+    .footer-logo img {
+        width: 60%;
+    }
+    .pricing {
+        padding: 50px 0px;
+    }
+    .services {
+        padding: 50px 0px;
+    }
+    .doctors {
+        padding: 50px 0px;
+    }
+}
+
+
+
+
+@media(min-width: 0px) and (max-width: 380px){
+    .navbar-brand {
+        font-size: 12px;
+    }
+    .top-image {
+        width: 70%;
+        margin: auto;
+    }
+    .contact-item h6 {
+        font-size: 16px;
+    }
+    .contact-item i {
+        font-size: 30px;
+    }
+    h2 {
+        font-size: 33px;
+    }
+    .banner h1 {
+        font-size: 35px;
+        }
+    .banner h2 {
+            font-size: 28px;
+        }
+    .follow h3 {
+        font-size: 20px;
+    }
+    .follow li a {
+        font-size: 16px;
+        height: 25px;
+        width: 25px;
+        line-height: 25px;
+    }
+    .appointment-btn {
+        width: 120px;
+        height: 50px;
+
+    }
+    .appointment-btn::before{
+        position: absolute;
+        content: '';
+        width: 120px;
+        height: 50px;
+    
+    }
+    .navbar-light .navbar-brand {
+        font-size: 12px;
+    }
+    .appointment-btn i {
+        color: white;
+        margin-right: 8px;
+        font-size: 13px;
+    }
+    .learn-more {
+        font-size: 14px;
+        padding: 14px 20px;
+    }
+    .book-now{
+        font-size: 14px;
+        padding: 14px 20px;
+    }
+    .dr-title {
+        padding: 20px 0px;
+    }
+    .image-icons i {
+        height: 35px;
+        width: 35px;
+        line-height: 35px;
+        font-size: 14px;
+        text-align: center;
+    }
+}
+
+@media(min-width: 992px){
+    .contact-item {
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+    }
+    .nav-item ul li{
+        margin: auto;
+    }
+
+}
+
+
+@media(min-width: 576px) and (max-width: 768px){
+    .dr-title{
+        padding: 20px 0px;
+    }
+    .image-icons i {
+        height: 40px;
+        width: 40px;
+        line-height: 40px;
+        font-size: 18px;
+    }
+}
+
+@media(min-width: 992px) and (max-width: 1200px){
+    .follow h3 {
+        font-size: 20px;
+    }
+    .follow li a {
+        font-size: 18px;
+        height: 30px;
+        width: 30px;
+        line-height: 30px;
+    }
+
+}
